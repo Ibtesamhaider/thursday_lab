@@ -1,4 +1,3 @@
-//AUTHOR @ibtesam haider
 package restaurant;
 import java.util.*;
 public class Restaurant_main {
